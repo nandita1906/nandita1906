@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nandita Roy 👋
 
-<!--
-**nandita1906/nandita1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at GBPUAT Pantnagar
 
-Here are some ideas to get you started:
+💼 Python Developer | Data Analytics Enthusiast | AI & LLM Evaluator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analytics
+- Machine Learning
+- Git & GitHub
+
+## Featured Projects
+
+### 🚀 IntervueX
+AI-powered mock interview platform with resume-based interviews, real-time feedback, performance analytics, and personalized improvement insights.
+
+### 📊 Data Analytics Portfolio
+EDA, Dashboards, Customer Segmentation, and Business Insights using Python.
+
+### 🌐 Web Development Projects
+Interactive web applications built with HTML, CSS, JavaScript, PHP, and MySQL.
+
+## Certifications
+
+- IBM AI Fundamentals
+- Simplilearn Data Analytics
+- HCL GUVI Generative AI
+
+## Connect With Me
+
+📧 roynandita079@gmail.com
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/nandita-roy-77a5b9258/
+
+💻 GitHub:  
+https://github.com/nandita1906
