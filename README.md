@@ -1,6 +1,6 @@
 # Hi, I'm Nandita Roy 👋
 
-🎓 MCA Student at GBPUAT Pantnagar (2025–2027)
+🎓 MCA Student at GBPUAT Pantnagar (2024–2027)
 
 💼 Aspiring Data Analyst | Python Developer | AI & LLM Evaluator
 
